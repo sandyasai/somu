@@ -1,0 +1,6 @@
+public class sandy{
+public start vid maain (Strings[] args)
+{
+String s1="sandhya"
+system.out.println(s1);
+}
